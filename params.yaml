@@ -1,0 +1,8 @@
+version: 1.0
+keys:
+  - name: "keyA"
+    value: "valueA"
+    description: "Secret for KeyA"
+  - name: "keyB"
+    value: "valueB"
+    description: "Secret for KeyB"
